@@ -1,22 +1,31 @@
-# 🛍️ Loja Meteora
+# 🪐 Loja Meteora
 
-Projeto de um e-commerce responsivo desenvolvido com **React** e **Vite**, utilizando **Sass** para estilização. 
+**Loja Meteora** is a responsive e-commerce website built with React, focused on clean UI and usability.  
+It simulates a clothing store experience, showcasing products, categories, and a user-friendly layout — ideal for practicing component-based architecture and modern styling. 👗🛍️
 
-## 🚀 Tecnologias Utilizadas
+## 🛠️ Technologies Used
 
-- **React** + Vite ⚡
-- **Sass** 🎨
-- **JavaScript (ES6+)** 📝
-- **Vite** 🛠️
+- ⚛️ **React**  
+- 🎨 **CSS3**  
+- 🧱 **HTML5**  
+- 📱 **Responsive Design**  
 
-# ✨ Funcionalidades
-✅ Layout responsivo
-✅ Design moderno e minimalista
-✅ Organização modular com componentes React
+## 📌 Project Status
 
-# 📌 Melhorias Futuras
-- [ ] Adicionar página de detalhes do produto
-- [ ] Implementar um carrinho de compras
-- [ ] Conectar com API de produtos
+🛠️ **Building** – Fully functional layout with responsive components.  
+🧪 *Perfect for future improvements, such as shopping cart and login integration.*
 
-👩‍💻 Desenvolvido por **Monique Ruggeri**, design de **Alura** 🚀
+## 🎯 Key Features
+
+- Product grid and categories  
+- Responsive navigation bar and footer  
+- Themed visual style with emphasis on clean UX  
+- Developed from a Figma design
+
+## 🚀 Live Preview
+
+🔗 [https://loja-meteora.vercel.app](https://loja-meteora.vercel.app)
+
+---
+
+🛒 *A simple but stylish storefront to practice real-world front-end development!*
